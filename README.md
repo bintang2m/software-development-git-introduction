@@ -12,3 +12,18 @@ Mata Kuliah : Software Development
 ## Nama Repository
 
 software-development-git-introduction
+
+## Tujuan Repository
+
+Repository ini dibuat untuk mempelajari dasar penggunaan Git dan GitHub.
+
+## Tools yang digunakan
+
+- Git
+- GitHub
+- Visual Studio Code
+
+## Struktur File
+
+- README.md
+- perkenalan.md
